@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+### 井字棋训练 ———— [https://react.docschina.org/tutorial/tutorial.html](https://react.docschina.org/tutorial/tutorial.html)
+* 判别谁赢
+* 落子是谁
+* 落子回滚
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
